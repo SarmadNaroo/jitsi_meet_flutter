@@ -1,0 +1,83 @@
+# Flutter/Dart/Pub related
+.dart_tool/
+.packages
+.pub/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.flutter-versions
+flutter_export_environment.sh
+
+# Android related
+*.iml
+.gradle/
+local.properties
+.idea/
+.AndroidStudio*
+/android/app/debug
+/android/app/release
+/android/app/profile
+
+# iOS related
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Flutter/Generated.xcconfig
+ios/Flutter/app.framework
+ios/ServiceDefinitions.json
+ios/Runner.xcworkspace/
+ios/Runner.xcodeproj/xcuserdata/
+ios/Runner.xcodeproj/project.xcworkspace/
+
+# Xcode
+xcuserdata/
+*.xcworkspace
+DerivedData/
+.idea/
+
+# VS Code
+.vscode/
+.history/
+
+# IntelliJ related
+*.iml
+.idea/
+*.ipr
+*.iws
+
+# Misc
+*.log
+*.lock
+*.DS_Store
+*.vscode/
+*.swp
+*.swm
+*~.nib
+
+# Web related
+web/.dart_tool/
+web/main.dart.js
+web/assets/
+web/canvaskit/
+web/flutter_service_worker.js
+web/index.html
+web/version.json
+
+# Windows related
+windows/.dart_tool/
+windows/flutter/
+windows/.vs/
+windows/CMakeLists.txt
+
+# Linux related
+linux/.dart_tool/
+linux/flutter/
+
+# MacOS related
+macos/.dart_tool/
+macos/flutter/
+
+# Files created by testing
+.coverage
+*.lcov
